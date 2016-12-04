@@ -1,0 +1,8 @@
+body{
+  background-image: url(http://blogs.missouristate.edu/reallife/files/2015/11/rainy-day.jpg);
+  background-position: center;
+}
+#title {
+  background: silver;
+  color: white;
+}
